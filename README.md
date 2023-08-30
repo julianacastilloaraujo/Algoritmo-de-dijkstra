@@ -1,2 +1,5 @@
 # Algoritmo-de-dijkstra
-Dijkstra desarrollado en python 🐍 uso de sentencias #while #if | Inteligencia Artificial IIPA 2023 U.Cundinamarca🇨🇴
+* Desarrollo en python 🐍
+* Algoritmo 1/3 asig. Inteligencia Artificial
+* Uso de #while
+* Uso de #if
